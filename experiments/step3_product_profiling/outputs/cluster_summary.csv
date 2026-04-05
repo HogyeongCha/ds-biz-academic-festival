@@ -1,0 +1,7 @@
+behavior_cluster,recency,frequency,monetary,involvement_diversity,label
+0,59.806,2.998,59.802,0.002,Low-Value Loyal
+1,62.147,0.003,38.791,1.002,Regular
+2,277.005,3.0,57.758,0.0,Regular
+3,286.571,0.0,80.354,1.0,At-Risk High-Value
+4,63.502,0.005,80.19,1.0,VIP Explorer
+5,286.855,0.002,39.355,1.0,Regular

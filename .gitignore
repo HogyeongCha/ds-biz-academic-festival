@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model files
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5
+
+# Large binary files
+*.npy
+
+# Embeddings cache
+embeddings_cache/
+.cache/
+
+# Pipeline outputs (duplicated in experiments/)
+pipeline/outputs/
+
+# Kiro internal
+.kiro/
+
+# Paper files (not for distribution)
+Paper.pdf
+paper.txt
+paper_layout.txt
+
+# Original data files are kept in pipeline/data/
